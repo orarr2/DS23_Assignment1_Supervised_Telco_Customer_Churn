@@ -1,3 +1,5 @@
+# Generated files and local working state
+
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
