@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Working files not part of the public submission
+DATA_CARD.md
+decision_tree_md.md
+decision_tree_mmd.mmd
+decision_tree_he.png
+
+# Scratch
+_test_*.py
+*.tmp
+*.zip
